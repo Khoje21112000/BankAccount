@@ -1,0 +1,8 @@
+/Users/jarvis/Desktop/Placement/BankAccount/BankAccount/obj/Debug/net7.0/BankAccountRegistration.csproj.AssemblyReference.cache
+/Users/jarvis/Desktop/Placement/BankAccount/BankAccount/obj/Debug/net7.0/BankAccountRegistration.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarvis/Desktop/Placement/BankAccount/BankAccount/obj/Debug/net7.0/BankAccountRegistration.AssemblyInfoInputs.cache
+/Users/jarvis/Desktop/Placement/BankAccount/BankAccount/obj/Debug/net7.0/BankAccountRegistration.AssemblyInfo.cs
+/Users/jarvis/Desktop/Placement/BankAccount/BankAccount/obj/Debug/net7.0/BankAccountRegistration.csproj.CoreCompileInputs.cache
+/Users/jarvis/Desktop/Placement/BankAccount/BankAccount/obj/Debug/net7.0/BankAccountRegistration.MvcApplicationPartsAssemblyInfo.cache
+/Users/jarvis/Desktop/Placement/BankAccount/BankAccount/obj/Debug/net7.0/BankAccountRegistration.RazorAssemblyInfo.cache
+/Users/jarvis/Desktop/Placement/BankAccount/BankAccount/obj/Debug/net7.0/BankAccountRegistration.RazorAssemblyInfo.cs

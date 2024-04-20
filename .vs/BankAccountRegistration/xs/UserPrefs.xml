@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{366E9EF2-55B8-4C77-9C70-F1C921075AC3}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BankAccount/Data/BankDbContext.cs">
+    <Files>
+      <File FileName="BankAccount/Models/BankAccount.cs" Line="7" Column="29" />
+      <File FileName="BankAccount/DbContext/AppDbContext.cs" Line="12" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BankAccountRegistration PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
